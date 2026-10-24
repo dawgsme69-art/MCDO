@@ -64,18 +64,18 @@ const HeroBranding = () => {
             <span className="text-[#000000]">Unlock</span>
             <span className="text-[#da020d]">McDonald's Rewards</span>
             <div className="flex items-center -ml-1">
-              <Gift className="w-4.5 h-4.5 text-[#242931] fill-transparent" />
+              <Gift className="w-4.5 h-4.5 text-[#da020d] fill-transparent" />
             </div>
           </h1>
         </div>
         
         {/* Sub-headline */}
         <div className="flex items-center justify-center gap-2 w-full text-center">
-          <Sparkles className="w-3.5 h-3.5 text-[#f1c40f] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#da020d] shrink-0 animate-sparkle" />
           <p className="text-[13px] sm:text-sm md:text-[15px] text-[#000000]/90 font-medium leading-relaxed whitespace-nowrap font-poppins">
             Here&apos;s how to claim your <span className="text-[#da020d] font-bold">$100 gift card</span>
           </p>
-          <Sparkles className="w-3.5 h-3.5 text-[#f1c40f] shrink-0 animate-sparkle" />
+          <Sparkles className="w-3.5 h-3.5 text-[#da020d] shrink-0 animate-sparkle" />
         </div>
       </div>
     </div>
