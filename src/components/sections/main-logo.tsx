@@ -11,7 +11,7 @@ const MainLogo = () => {
       <img 
         src="https://i.imgur.com/Aofj6kb.png" 
         alt="mcdo Logo" 
-        className="h-10 sm:h-25 w-25 object-contain transition-all duration-700 hover:brightness-110"
+        className="h-5 sm:h-20 w-20 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
